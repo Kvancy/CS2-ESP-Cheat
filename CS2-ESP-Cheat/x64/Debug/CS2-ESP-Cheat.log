@@ -1,0 +1,12 @@
+﻿  kGame.cpp
+C:\Users\15386\Desktop\VS_shell\CS2-ESP-Cheat\CS2-ESP-Cheat\mem.h(27,26): warning C4244: “=”: 从“DWORD”转换到“unsigned short”，可能丢失数据
+  kPlayerPawn.cpp
+  kRender.cpp
+  kWindow.cpp
+C:\Users\15386\Desktop\VS_shell\CS2-ESP-Cheat\CS2-ESP-Cheat\mem.h(27,26): warning C4244: “=”: 从“DWORD”转换到“unsigned short”，可能丢失数据
+C:\Users\15386\Desktop\VS_shell\CS2-ESP-Cheat\CS2-ESP-Cheat\kWindow.cpp(65,66): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\15386\Desktop\VS_shell\CS2-ESP-Cheat\CS2-ESP-Cheat\kWindow.cpp(67,77): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  main.cpp
+C:\Users\15386\Desktop\VS_shell\CS2-ESP-Cheat\CS2-ESP-Cheat\mem.h(27,26): warning C4244: “=”: 从“DWORD”转换到“unsigned short”，可能丢失数据
+  正在生成代码...
+  CS2-ESP-Cheat.vcxproj -> C:\Users\15386\Desktop\VS_shell\CS2-ESP-Cheat\x64\Debug\CS2-ESP-Cheat.exe
